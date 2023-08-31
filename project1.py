@@ -13,9 +13,10 @@ print("My name is :"+name)
 # in develop branch 
 print('Hello sarmad')
 print("Enter the id plz")
-print('hello brothe")
+print('hello brothe')
       
-print('hello brother')print('hello brother')
+print('hello brother')
+print('hello brother')
 print('hello brother')
 print('hello brother')
 print('hello brother')
